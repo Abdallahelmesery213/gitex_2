@@ -537,6 +537,9 @@ footer form .btn{
     .banner .banner-text hr{
         width: 75%;
     }
+    .banner .banner-text h3 {
+        margin-top: 40%;
+    }
 }
 @media only screen and (max-width: 418px){
     .nav1 .langs{
@@ -547,6 +550,9 @@ footer form .btn{
     header .nav1 ul li {
         margin-left: 0px;
         font-size: 12px;
+    }
+    .banner .banner-text h3 {
+        margin-top: 40%;
     }
     
 }
